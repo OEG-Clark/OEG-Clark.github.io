@@ -12,14 +12,9 @@ redirect_from:
 Education
 ======
 * **M.S. in Data Science**, KTH Royal Institute of Technology & UR1-ISITC, 2020-2022
-  * KTH GPA: 4.7/5.0 (A)
-  * UR1-ISITC GPA: 15.0/20 (Bien)
-  * Key Coursework: Machine Learning (A), Machine Learning II (A), Programming for Data Science (A), Data Mining (A), Cloud for Big Data (A)
   * Locations: Stockholm, Sweden & Rennes, France
 
 * **B.S. in Artificial Intelligence & B.Eng. in Financial Engineering**, University of Electronic Science and Technology of China (UESTC), 2016-2020
-  * GPA: 3.62/4.0
-  * Key Coursework: Computer Vision and Pattern Recognition (4.0), Distributed Parallel Computing (4.0), Data Mining and Big Data Analysis (4.0), Advanced Programming (4.0), Financial Econometrics (4.0)
   * Location: Chengdu, China
 
 Work Experience
@@ -81,26 +76,6 @@ Skills
 * **ML/DL Frameworks**: PyTorch, TensorFlow, Keras, Scikit-Learn, Transformers
 * **Data Science**: NumPy, Pandas, Jupyter, Matplotlib, Seaborn
 * **Technologies**: Docker, Unix/Linux, Git, RAG Systems, Knowledge Graphs
-* **Specializations**: 
-  * Natural Language Processing
-  * Large Language Models (LLMs)
-  * Graph Neural Networks (GNNs)
-  * Retrieval-Augmented Generation (RAG)
-  * Ontology Engineering
-  * Explainable AI
-  * Model Fine-tuning (LoRA, QLoRA)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Awards & Honors
 ======
